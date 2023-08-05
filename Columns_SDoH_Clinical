@@ -1,0 +1,20 @@
+SDoH:
+age
+sex
+smoking_ppd + years_of_smoking
+gender identity
+country + country_other
+race + other_race
+ethnic_group
+
+Clinical:
+comorbidities + comorbidities_other + complications + if_other_complication_plea + kdigo_diagnosis_and_stagin + types_of_renal_replacement
+home_medications_other + pre_hospital_medications + anti_diabetic_medication_o + drug_class_of_antidiabetic + sedation_analgesics_paraly
+type_of_the_covid_19_vacci + how_many_doses_of_covid_19
+anticoagulation_category + other_anticoagulants
+(medications + other_medications)
+name_of_antiviral + if_other_antiviral_please_v2
+steroid_name_dose
+antifungal_name_dose + hydroxychlorquine_dose + azithromycin_dose + antibacterials_names_and_d
+mis_medications + mis_med_dose
+
